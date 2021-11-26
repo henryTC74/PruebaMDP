@@ -1,0 +1,14 @@
+﻿========== Comprobando los requisitos previos del contenedor ==========
+Comprobando que Docker Desktop está instalado...
+No se cumplen los requisitos previos necesarios para habilitar la compatibilidad con contenedores en el proyecto.
+Docker Desktop no está instalado.
+========== Finalizada ==========
+
+========== Comprobando los requisitos previos del contenedor ==========
+Comprobando que Docker Desktop está instalado...
+Descargando Docker Desktop...
+Docker Desktop se descargó correctamente y se está instalando.
+C:\Users\HENRY\AppData\Local\Temp\DockerForWindowsInstaller.exe 
+[04:56:26.742] [ManifestAndExistingInstallationLoader] No install path specified, looking for default installation registry key
+[04:56:26.745] [Program] No installation found
+[04:56:26.770] [ProcessEnvironmentDetector] Not run as admin, relaunching with UAC prompt

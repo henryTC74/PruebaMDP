@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaMDP.Abstraction\PruebaMDP.Abstraction.csproj" />
+    <ProjectReference Include="..\PruebaMDP.DataAccess\PruebaMDP.DataAccess.csproj" />
+    <ProjectReference Include="..\PruebaMDP.Entities\PruebaMDP.Entities.csproj" />
+    <ProjectReference Include="..\PruebaMDP.Services\PruebaMDP.Services.csproj" />
+  </ItemGroup>
+
+</Project>
